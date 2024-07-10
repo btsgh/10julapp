@@ -13,8 +13,12 @@
   "icon": "couples",
   "pages": [
     {
-      "id": "Page1",
+      "id": "Oauthdb",
       "isDefault": true
+    },
+    {
+      "id": "USERS",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
