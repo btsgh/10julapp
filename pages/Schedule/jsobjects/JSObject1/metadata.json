@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "668e0846196f52633a6ffba9_cab562cc-5028-4738-97af-672c4d79c9a9",
+  "id": "Schedule_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Schedule",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

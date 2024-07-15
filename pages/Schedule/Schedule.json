@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "668e0846196f52633a6ffba9_2274f258-46ad-42d8-9141-137db01ca0a3",
+  "unpublishedPage": {
+    "isHidden": false,
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 580,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "minHeight": 670,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1160,
+          "snapColumns": 64,
+          "snapRows": 66,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 89,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "Schedule",
+    "slug": "schedule"
+  }
+}
